@@ -1,0 +1,33 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   margin: 0px 0px 0px;
+   color: #CCCCCC;
+   background: url(/no-mic.github.io/img/background-code.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position-y: 80px;
+   background-color: #0a0a09
+}
+
+#section-header {
+   background-color: #0a0a09;
+   height: 80px;
+}
+
+#footer-section {
+   background-color: #0a0a09;
+}
+
+ul {
+   list-style-type: none;
+   overflow:hidden;
+   margin: 0px 0px 0px;
+}
+
+li {
+   float: right;
+   font-size: 15px;
+   padding:  30px 25px;
+   letter-spacing: 6px;
+   text-transform: uppercase;
+}
